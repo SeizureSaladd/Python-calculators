@@ -1,4 +1,4 @@
-# Python-calculators-algebraic-one-and-one-for-square roots
+# Python-calculators algebraic one and one for square roots
 for those who don't wanna do their homework the right way ¯\_(ツ)_/¯
 # HOW to run
 Go to python.org and install the latest version.
