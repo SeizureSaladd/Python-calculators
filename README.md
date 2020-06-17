@@ -5,3 +5,5 @@ Go to python.org and install the latest version.
 Open the file menu and make a new script
 Copy and paste the code and run.
 Includes 2 calculators one for algebraic equations and 1 for square roots.
+or whatever idk wherever u can run python i guess
+
